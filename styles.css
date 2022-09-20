@@ -1,3 +1,16 @@
 .testklass {
     background-color: red;
+    background-color: orange;
+    background-color: red;
+}
+.fargorange{
+    background-color: orange;
+    margin-left: 100px;
+    margin-top: 100px;
+    
+}
+.bla-och-margin{
+    background-color: aqua;
+    margin-left: 100px;
+    margin-top: 100px;
 }
